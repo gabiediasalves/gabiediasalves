@@ -16,8 +16,6 @@
   <img alt="Node" src="https://img.shields.io/badge/-Nodejs-9ACD32?style=for-the-badge&logo=node.js&logoColor=DCDCDC"/>
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-4682B4?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
-<hr>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiediasalves&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<!-- <hr>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiediasalves&layout=compact&langs_count=7&theme=radical"/> -->
