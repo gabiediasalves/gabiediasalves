@@ -15,6 +15,7 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-3CB371?style=for-the-badge&logo=vue.js&logoColor=DCDCDC"/>
   <img alt="Node" src="https://img.shields.io/badge/-Nodejs-9ACD32?style=for-the-badge&logo=node.js&logoColor=DCDCDC"/>
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-4682B4?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/-React-1e2f4a?style=for-the-badge&logo=react&logoColor=blue"/>
 </div>
 
 <!-- <hr>
