@@ -17,6 +17,7 @@
  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-4682B4?style=for-the-badge&logo=sqlite&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/-React-1e2f4a?style=for-the-badge&logo=react&logoColor=blue"/>
  <img alt="Java" src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=java&logoColor=blue"/>
+ <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgres-4682B4?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 <!-- <hr>
