@@ -1,7 +1,4 @@
-<h1> Hi 👋, I'm Gabrieli!</h1>
-
-- 💡 I'm a front-end developer, my focus is to execute my challenges with excellence
-- 📢 If you want to contact me: gabiediasalves@gmail.com or <a href="https://www.linkedin.com/in/gabrieli-dias-alves-769b7121a" target="_blank">Linkedin</a>
+ <img height="510em" src="https://user-images.githubusercontent.com/95694730/211539287-9417674c-9596-4b99-938b-3b58bb348d9f.png"/>
 
 <br>
 
