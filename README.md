@@ -1,6 +1,4 @@
- <img height="550em" src="https://user-images.githubusercontent.com/95694730/211660516-20e493b1-3e2b-4e83-88b2-68c69b040ae1.png"/>
-
-<br><br>
+ <img height="510em" src="https://user-images.githubusercontent.com/95694730/211660516-20e493b1-3e2b-4e83-88b2-68c69b040ae1.png"/>
 
 ## <h3>🚀 My Main Skills</h3>
 <div style="display: inline_block"><br>
@@ -21,8 +19,7 @@
  <img alt="Genexus" src="https://img.shields.io/badge/-genexus-4682B4?style=for-the-badge&logo=genexus&logoColor=white"/>
 </div>
 
-
-## <h3> 💬 Contact me! </h3>
+## <h3> 💬 Contact me!</h3>
 <br>
   <div>
   <a href = "mailto: gabiediasalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,8 +33,8 @@
 ##
 
  <p align="left">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=gabiediasalves&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" alt="gabiediasalves stats" />
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiediasalves&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true&layout=compact" alt="gabiediasalves most languages"/>
+    <img width="420em" src="https://github-readme-stats.vercel.app/api?username=gabiediasalves&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" alt="gabiediasalves stats" />
+    <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiediasalves&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true&layout=compact" alt="gabiediasalves most languages"/>
   <br>
  </p>
 
