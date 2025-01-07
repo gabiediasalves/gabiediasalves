@@ -51,4 +51,4 @@
   <br>
  </p>
 
-![snake gif](https://github.com/gabiediasalves/gabiediasalves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabiediasalves/gabiediasalves/blob/output/github-contribution-grid-snake.svg)
